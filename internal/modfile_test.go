@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/josvazg/gobump/internal"
+	"github.com/crd2go/gobump/internal"
 )
 
 func writeGoMod(t *testing.T, content string) string {
