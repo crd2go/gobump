@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/josvazg/gobump/internal"
+	"github.com/crd2go/gobump/internal"
 )
 
 func TestRun_noArgs(t *testing.T) {

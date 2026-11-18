@@ -1,4 +1,4 @@
-module github.com/josvazg/gobump
+module github.com/crd2go/gobump
 
 go 1.27.2
 

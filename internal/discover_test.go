@@ -6,7 +6,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/josvazg/gobump/internal"
+	"github.com/crd2go/gobump/internal"
 )
 
 func TestFindModFiles(t *testing.T) {

@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/josvazg/gobump/internal"
+	"github.com/crd2go/gobump/internal"
 )
 
 // fakeDLServer serves a go.dev/dl-style version list on / and a GitHub

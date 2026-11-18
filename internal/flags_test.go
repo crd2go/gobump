@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/josvazg/gobump/internal"
+	"github.com/crd2go/gobump/internal"
 )
 
 func TestParseFlags_defaults(t *testing.T) {

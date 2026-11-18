@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/josvazg/gobump/internal"
+	"github.com/crd2go/gobump/internal"
 )
 
 const day = 24 * time.Hour

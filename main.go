@@ -5,7 +5,7 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/josvazg/gobump/internal"
+	"github.com/crd2go/gobump/internal"
 )
 
 func main() {
